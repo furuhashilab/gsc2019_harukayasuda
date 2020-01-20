@@ -1,9 +1,9 @@
 # gsc2019_harukayasuda
 ゼミ論用レポジトリ
 
-グラフィックレコーディング初心者が
-実践するうえで感じる障害
+# グラフィックレコーディング初心者が実践するうえで感じる障害
 
+slide https://docs.google.com/presentation/d/1YGTmIuVXkh6MpjLlVPSpKH4hDGFwrwVPIAwZ4hr82e4/edit#slide=id.g7ca05b16b2_0_85
 
 # 概要
 
