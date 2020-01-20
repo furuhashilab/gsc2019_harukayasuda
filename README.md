@@ -5,6 +5,12 @@
 
 slide https://docs.google.com/presentation/d/1YGTmIuVXkh6MpjLlVPSpKH4hDGFwrwVPIAwZ4hr82e4/edit#slide=id.g7ca05b16b2_0_85
 
+概要　https://docs.google.com/document/d/1zM-jh5vM9r8VI9CfW_Anjz7t-T7fhJWOFJQBxLNhZxg/edit?usp=sharing
+
+中間発表用スライド　https://speakerdeck.com/skrt1172/an-tian-yao-zemilun-20191118
+
+参考文献　 https://goodpatch.com/blog/graphic-recording-study-group/ http://www.webd-labo.com/?p=2091
+
 # 概要
 
 初心者がグラフィックレコーディング（以下グラレコ）のスキルを獲得するためのプロセス研究。対話や議論を構造化するビジュアライゼーション技法であるグラレコだが、その技法を伝える時に、ある程度の基本的な技術は伝えうるが、初心者がスキルを獲得し実践できるようになるまでには様々な障害がある。そういった障害を言語化し、解決方法を実践者と議論し実践機会に活かした結果をまとめたものである。
