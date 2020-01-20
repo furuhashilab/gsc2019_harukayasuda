@@ -47,7 +47,7 @@ slide https://docs.google.com/presentation/d/1YGTmIuVXkh6MpjLlVPSpKH4hDGFwrwVPIA
 
 ## Discussion:
 
-グラレコを実践するうえで、ただただ書いていって慣れることも重要だが、実践したい人がどういった目的でグラレコを行いたいのか、議論したことがあった。
+グラレコを実践するうえで、ただただ書いていって慣れることも重要だが、実践したい人がどういった目的でグラレコを行いたいのか、議論したことがあった。そういった点においては実践者、初心者問わず重要な点であることが明らかになった。
 
 ## Conclusion:
 
@@ -59,7 +59,7 @@ slide https://docs.google.com/presentation/d/1YGTmIuVXkh6MpjLlVPSpKH4hDGFwrwVPIA
 
 
 ## Acknowledgements/謝辞:
-本研究を進めるにあたり清水淳子さんをはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
+本研究を進めるにあたり研究対象として協力してくれた小林光さんをはじめ多くの方々より多大な助言を賜りました。厚く感謝を申し上げます。
 
 
 概要　https://docs.google.com/document/d/1zM-jh5vM9r8VI9CfW_Anjz7t-T7fhJWOFJQBxLNhZxg/edit?usp=sharing
