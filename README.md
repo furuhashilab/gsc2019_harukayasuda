@@ -5,7 +5,7 @@
 
 slide https://docs.google.com/presentation/d/1YGTmIuVXkh6MpjLlVPSpKH4hDGFwrwVPIAwZ4hr82e4/edit#slide=id.g7ca05b16b2_0_85
 
-概要　https://docs.google.com/document/d/1zM-jh5vM9r8VI9CfW_Anjz7t-T7fhJWOFJQBxLNhZxg/edit?usp=sharing
+概要(google docs)　https://docs.google.com/document/d/1zM-jh5vM9r8VI9CfW_Anjz7t-T7fhJWOFJQBxLNhZxg/edit?usp=sharing
 
 中間発表用スライド　https://speakerdeck.com/skrt1172/an-tian-yao-zemilun-20191118
 
